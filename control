@@ -1,0 +1,9 @@
+Package: com.example.minesweeper
+Name: Minesweeper
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: A native Minesweeper game for jailbroken iPad (Objective-C).
+Maintainer: You <you@example.com>
+Author: You <you@example.com>
+Section: Games
+Depends: firmware (>= 9.0)
